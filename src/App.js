@@ -23,7 +23,7 @@ const App = () => {
   const deleteTask = (id) => {
     setTasks(tasks.filter((task) => task.id !== id))
   }
-
+// returning No tasks if tasks are all deleted or 0
   return (
     <div className="container">
       <Header />
