@@ -1,3 +1,11 @@
+# This Project is a Task Tracker. 
+
+# Functions so Far, Delete Tasks, Add a reminder Green bar with double click
+# Working on adding new Tasks through form
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
