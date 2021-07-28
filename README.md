@@ -1,7 +1,7 @@
 # This Project is a Task Tracker. 
 
-# Functions so Far, Delete Tasks, Add a reminder Green bar with double click
-# Working on adding new Tasks through form
+ Functions so Far, Delete Tasks, Add a reminder Green bar with double click
+ Working on adding new Tasks through form
 
 
 
